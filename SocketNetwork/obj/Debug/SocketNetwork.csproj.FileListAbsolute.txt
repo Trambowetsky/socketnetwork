@@ -1,0 +1,11 @@
+E:\ZnZ\C#\SocketNetwork\SocketNetwork\bin\Debug\SocketNetwork.dll
+E:\ZnZ\C#\SocketNetwork\SocketNetwork\bin\Debug\SocketNetwork.pdb
+E:\ZnZ\C#\SocketNetwork\SocketNetwork\obj\Debug\SocketNetwork.dll
+E:\ZnZ\C#\SocketNetwork\SocketNetwork\obj\Debug\SocketNetwork.pdb
+E:\ZnZ\C#\SocketNetwork\SocketNetwork\obj\Debug\SocketNetwork.csprojAssemblyReference.cache
+C:\Users\Саня\Desktop\SocketNetwork-master\SocketNetwork\bin\Debug\SocketNetwork.dll
+C:\Users\Саня\Desktop\SocketNetwork-master\SocketNetwork\bin\Debug\SocketNetwork.pdb
+C:\Users\Саня\Desktop\SocketNetwork-master\SocketNetwork\obj\Debug\SocketNetwork.csprojAssemblyReference.cache
+C:\Users\Саня\Desktop\SocketNetwork-master\SocketNetwork\obj\Debug\SocketNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Саня\Desktop\SocketNetwork-master\SocketNetwork\obj\Debug\SocketNetwork.dll
+C:\Users\Саня\Desktop\SocketNetwork-master\SocketNetwork\obj\Debug\SocketNetwork.pdb
